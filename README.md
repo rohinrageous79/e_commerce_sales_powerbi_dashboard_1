@@ -86,14 +86,12 @@ Power BI Desktop, Power Query, DAX
 ## Files
 
 ```
-├── Ecommerce_Dashboard.pbix
-├── data/
-│   ├── Orders.csv
-│   └── Details.csv
-├── screenshots/
-│   ├── pbidashboard_1.png
-│   └── pbidashboard_1_filtered.png
-└── README.md
+├── README.md
+├── ecommerce_dashboard_1.pbix
+├── Orders.csv
+├── Details.csv
+├── pbidashboard_1.png
+└── pbidashboard_1_filtered.png
 ```
 
 Open the `.pbix` file in Power BI Desktop to explore the dashboard.
