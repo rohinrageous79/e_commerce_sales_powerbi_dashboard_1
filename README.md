@@ -2,13 +2,13 @@
 
 An interactive Power BI dashboard analysing 2018 e-commerce sales across 19 Indian states. It covers revenue, profit, order value and product performance, with slicers for quarter and state.
 
-![Dashboard](screenshots/pbidashboard_1.png)
+![Dashboard](pbidashboard_1.png)
 
 ## Interactive filtering
 
 Every visual responds to the Quarter and State slicers. The view below shows Q4 for Maharashtra.
 
-![Filtered view](screenshots/pbidashboard_1_filtered.png)
+![Filtered view](pbidashboard_1_filtered.png)
 
 ## Dataset
 
